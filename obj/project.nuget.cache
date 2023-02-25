@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KIvxs2AfBtnbYbrVbYnseKmgBhj5aaZRXPwf7OHMJwojqJb3cmAKJ4iKSBcC18VCdf0NMQgHUoRMGn06T3aRXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jrzal\\OneDrive\\Desktop\\test_project\\test_project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jrzal\\.nuget\\packages\\raylib\\4.2.0.2\\raylib.4.2.0.2.nupkg.sha512",
+    "C:\\Users\\jrzal\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\jrzal\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
